@@ -35,8 +35,6 @@
 
 <br clear="right" />
 
-<br />
-
 <h2 align="center">🛠️ &nbsp;Tech</h2>
 
 <p align="center">
@@ -74,8 +72,6 @@
 
 <br clear="left"/>
 
-<br />
-
 <h2 align="center">📊 Sᴛᴀᴛs</h2>
 
 <p align="center">
@@ -83,8 +79,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rusmn&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" width="30%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rusmn&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages by Repo" width="30%" />
 </p>
-
-<br />
 
 <h2 align="center">🏆 Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
@@ -103,8 +97,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rusmn&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=9ece6a&area=true&hide_border=true" width="850" />
 </div>
-
-<br />
 
 <div align="center">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg" width="850" />
