@@ -33,9 +33,7 @@
   </p>
 </div>
 
-<br clear="right" />
 
-<br />
 
 <h2 align="center">🛠️ &nbsp;Tech</h2>
 
@@ -77,9 +75,6 @@
   </p>
 </div>
 
-<br clear="left" />
-
-<br />
 
 <h2 align="center">📊 Sᴛᴀᴛs</h2>
 
@@ -89,7 +84,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rusmn&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages by Repo" width="30%" />
 </p>
 
-<br />
 
 <h2 align="center">🏆 Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
@@ -102,7 +96,6 @@
   </a>
 </p>
 
-<br />
 
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
