@@ -24,14 +24,14 @@
     <li>🌿 &nbsp;Growing at my own pace, learning the theory while building small things that feel meaningful.</li>
     <li>☕ &nbsp;Looking forward to the kind of progress that only comes from patient, consistent effort.</li>
   </ul>
-  <img src="img/turu.gif" alt="Sleepy cat" style="width: 25%; min-width: 180px; max-width: 250px; height: auto;" />
+  <img src="img/turu.gif" alt="Sleepy cat" style="width: clamp(200px, 28vw, 260px); height: auto; border-radius: 12px;" />
 </div>
 
 <br />
 
 <h2 align="center">🛠️ &nbsp;Tech</h2>
-<div style="display:flex; align-items:stretch; justify-content:center; gap:24px; flex-wrap: wrap;">
-  <img src="img/astro.gif" alt="Cat coder" style="width: clamp(200px, 30vw, 300px); height: auto; object-fit: cover; border-radius: 12px; border: none;" />
+<div style="display:flex; align-items:center; justify-content:center; gap:24px; flex-wrap:wrap;">
+  <img src="img/astro.gif" alt="Cat coder" style="width: clamp(240px, 28vw, 320px); height: auto; object-fit: cover; border-radius: 12px; border: none;" />
   
   <div style="max-width: 900px; display: flex; align-items: center;">
     <div style="display:flex; flex-wrap:wrap; gap:8px; justify-content:center;">
@@ -68,17 +68,15 @@
 <br />
 
 <h2 align="center">📊 Sᴛᴀᴛs</h2>
-<div style="display:flex; justify-content:center; align-items:flex-start; gap:16px; flex-wrap:wrap;">
-  
-  <div style="display:flex; flex-direction:column; gap:12px; flex:1 1 300px; max-width: 380px;">
+<div style="display:flex; justify-content:center; align-items:flex-start; gap:14px; flex-wrap:wrap;">
+  <div style="display:flex; flex-direction:column; gap:12px; flex:1 1 clamp(260px, 32vw, 360px); max-width: 380px;">
     <img style="width:100%; height:auto; border-radius:10px;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rusmn&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages by Commit" />
     <img style="width:100%; height:auto; border-radius:10px;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rusmn&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages by Repo" />
   </div>
 
-  <div style="flex:1 1 300px; max-width: 380px;">
-      <img style="width:100%; height:auto; border-radius:12px; object-fit: contain;" src="https://github-contribution-stats.vercel.app/api/?username=Rusmn&bg_color=00000000&title_color=7aa2f7&text_color=a9b1d6&icon_color=bb9af7&border_color=1a1b26" alt="Contribution Stats" />
+  <div style="flex:1 1 clamp(340px, 40vw, 520px); max-width: 520px;">
+    <img style="width:100%; height:auto; border-radius:12px;" src="https://github-contribution-stats.vercel.app/api/?username=Rusmn&bg_color=00000000&title_color=7aa2f7&text_color=a9b1d6&icon_color=bb9af7&border_color=1a1b26" alt="Contribution Stats" />
   </div>
-
 </div>
 
 <br />
