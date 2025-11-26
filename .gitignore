@@ -1,1 +1,10 @@
 contoh/
+
+# Ignore unused image assets (only banner5.gif, astro.gif, turu.gif are used)
+img/banner.gif
+img/banner2.jpg
+img/banner3.jpg
+img/banner4.gif
+img/cat.gif
+img/com.jpg
+img/luffy.jpg
