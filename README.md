@@ -37,7 +37,7 @@
 <h2 align="center">🛠️ &nbsp;Tech</h2>
 
 <div>
-<img src="img/astro.gif" align="left" hspace="35" alt="Cat coder" width="380" />
+<img src="img/astro.gif" align="left" hspace="20" alt="Cat coder" width="320" />
 <p>
 <br/>
 <img src="https://img.shields.io/badge/c-00599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -73,7 +73,6 @@
 <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 </p>
 </div>
-
 <br clear="left" />
 
 <h2 align="center">📊 Sᴛᴀᴛs</h2>
