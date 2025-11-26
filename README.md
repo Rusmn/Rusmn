@@ -31,7 +31,7 @@
 
 <h2 align="center">🛠️ &nbsp;Tech</h2>
 <div style="display:flex; align-items:stretch; justify-content:center; gap:24px;">
-  <img src="img/astro.gif" alt="Cat coder" style="height: 200px; width: 30%; object-fit: cover; border-radius: 12px; border: none;" />
+  <img src="img/astro.gif" alt="Cat coder" style="width: clamp(240px, 30vw, 320px); height: auto; object-fit: cover; border-radius: 12px; border: none;" />
   
   <div style="max-width: 900px; display: flex; align-items: center;">
     <div style="display:flex; flex-wrap:wrap; gap:8px; justify-content:center;">
@@ -68,15 +68,13 @@
 <br />
 
 <h2 align="center">📊 Sᴛᴀᴛs</h2>
-<div style="display:flex; justify-content:center; align-items:flex-start; gap:12px; flex-wrap:wrap;">
-  
-  <div style="display:flex; flex-direction:column; gap:10px; flex:1 1 200px; min-width:200px; max-width:250px;">
+<div style="display:flex; justify-content:center; align-items:flex-start; gap:14px; flex-wrap:wrap;">
+  <div style="display:flex; flex-direction:column; gap:12px; flex:1 1 clamp(260px,30vw,340px); max-width:360px;">
     <img style="width:100%; border-radius:10px;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rusmn&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages by Commit" />
     <img style="width:100%; border-radius:10px;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rusmn&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages by Repo" />
   </div>
 
-  <img style="height: 300px; border-radius:12px; flex:1 1 240px; max-width: 350px; object-fit: contain; " src="https://github-contribution-stats.vercel.app/api/?username=Rusmn&bg_color=00000000&title_color=7aa2f7&text_color=a9b1d6&icon_color=bb9af7&border_color=1a1b26" alt="Contribution Stats" />
-
+  <img style="flex:1 1 clamp(320px,36vw,440px); width: clamp(320px,36vw,440px); border-radius:14px;" src="https://github-contribution-stats.vercel.app/api/?username=Rusmn&bg_color=00000000&title_color=7aa2f7&text_color=a9b1d6&icon_color=bb9af7&border_color=1a1b26" alt="Contribution Stats" />
 </div>
 
 <br />
