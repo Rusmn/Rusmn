@@ -16,25 +16,35 @@
 ---
 
 <h3 align="center">👨🏻‍💻 &nbsp;About Me</h3>
-<div style="display:flex; align-items:center; justify-content:center; gap:24px; flex-wrap:wrap;">
-  <ul style="list-style:none; text-align:left; margin: 0; padding: 0; line-height: 1.7; max-width: 640px;">
-    <li>🌙 &nbsp;A quiet night-learner who follows Computer Science with a calm, steady curiosity.</li>
-    <li>✨ &nbsp;Drawn to the way ideas in CS unfold—softly at first, then shaping into something real.</li>
-    <li>🌧️ &nbsp;I enjoy simple, thoughtful progress, especially in Software Engineering and Data Science.</li>
-    <li>🌿 &nbsp;Growing at my own pace, learning the theory while building small things that feel meaningful.</li>
-    <li>☕ &nbsp;Looking forward to the kind of progress that only comes from patient, consistent effort.</li>
-  </ul>
-  <img src="img/turu.gif" alt="Sleepy cat" style="width: clamp(200px, 28vw, 260px); height: auto; border-radius: 12px;" />
+<div style="display:flex; align-items:center; justify-content:center; gap:20px; flex-wrap:wrap;">
+  
+  <div style="flex: 2; min-width: 300px;">
+    <ul style="list-style:none; text-align:left; margin: 0; padding: 0; line-height: 1.8;">
+      <li>🌙 &nbsp;A quiet night-learner who follows Computer Science with a calm, steady curiosity.</li>
+      <li>✨ &nbsp;Drawn to the way ideas in CS unfold—softly at first, then shaping into something real.</li>
+      <li>🌧️ &nbsp;I enjoy simple, thoughtful progress, especially in Software Engineering and Data Science.</li>
+      <li>🌿 &nbsp;Growing at my own pace, learning the theory while building small things that feel meaningful.</li>
+      <li>☕ &nbsp;Looking forward to the kind of progress that only comes from patient, consistent effort.</li>
+    </ul>
+  </div>
+
+  <div style="flex: 1; min-width: 150px; display: flex; justify-content: center;">
+     <img src="img/turu.gif" alt="Sleepy cat" style="width: 100%; max-width: 250px; height: auto; border-radius: 15px;" />
+  </div>
+
 </div>
 
 <br />
 
 <h2 align="center">🛠️ &nbsp;Tech</h2>
-<div style="display:flex; align-items:center; justify-content:center; gap:24px; flex-wrap:wrap;">
-  <img src="img/astro.gif" alt="Cat coder" style="width: clamp(240px, 28vw, 320px); height: auto; object-fit: cover; border-radius: 12px; border: none;" />
+<div style="display:flex; align-items:center; justify-content:center; gap:20px; flex-wrap: wrap;">
   
-  <div style="max-width: 900px; display: flex; align-items: center;">
-    <div style="display:flex; flex-wrap:wrap; gap:8px; justify-content:center;">
+  <div style="flex: 1; min-width: 200px; max-width: 30%; display: flex; justify-content: center;">
+    <img src="img/astro.gif" alt="Cat coder" style="width: 100%; height: auto; object-fit: cover; border-radius: 12px;" />
+  </div>
+  
+  <div style="flex: 2; min-width: 300px;">
+    <div style="display:flex; flex-wrap:wrap; gap:8px; justify-content:flex-start;">
       <img src="https://img.shields.io/badge/c-00599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
       <img src="https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
       <img src="https://img.shields.io/badge/c%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
@@ -68,15 +78,17 @@
 <br />
 
 <h2 align="center">📊 Sᴛᴀᴛs</h2>
-<div style="display:flex; justify-content:center; align-items:flex-start; gap:14px; flex-wrap:wrap;">
-  <div style="display:flex; flex-direction:column; gap:12px; flex:1 1 clamp(260px, 32vw, 360px); max-width: 380px;">
+<div style="display:flex; justify-content:center; align-items:stretch; gap:16px; flex-wrap:wrap;">
+  
+  <div style="display:flex; flex-direction:column; gap:12px; flex:1 1 300px; max-width: 400px;">
     <img style="width:100%; height:auto; border-radius:10px;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rusmn&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages by Commit" />
     <img style="width:100%; height:auto; border-radius:10px;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rusmn&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages by Repo" />
   </div>
 
-  <div style="flex:1 1 clamp(340px, 40vw, 520px); max-width: 520px;">
-    <img style="width:100%; height:auto; border-radius:12px;" src="https://github-contribution-stats.vercel.app/api/?username=Rusmn&bg_color=00000000&title_color=7aa2f7&text_color=a9b1d6&icon_color=bb9af7&border_color=1a1b26" alt="Contribution Stats" />
+  <div style="flex:1 1 300px; max-width: 400px; display:flex; align-items:center;">
+      <img style="width:100%; height:auto; border-radius:12px; object-fit: contain;" src="https://github-contribution-stats.vercel.app/api/?username=Rusmn&bg_color=00000000&title_color=7aa2f7&text_color=a9b1d6&icon_color=bb9af7&border_color=1a1b26" alt="Contribution Stats" />
   </div>
+
 </div>
 
 <br />
