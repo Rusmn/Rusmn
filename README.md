@@ -17,26 +17,23 @@
 
 <h3 align="center">👨🏻‍💻 &nbsp;About Me</h3>
 
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="20">
-    <tr>
-      <td valign="middle" align="left">
-        🌙 &nbsp;A quiet night-learner who follows Computer Science with a calm, steady curiosity.
-        <br/><br/>
-        ✨ &nbsp;Drawn to the way ideas in CS unfold—softly at first, then shaping into something real.
-        <br/><br/>
-        🌧️ &nbsp;I enjoy simple, thoughtful progress, especially in Software Engineering and Data Science.
-        <br/><br/>
-        🌿 &nbsp;Growing at my own pace, learning the theory while building small things that feel meaningful.
-        <br/><br/>
-        ☕ &nbsp;Looking forward to the kind of progress that only comes from patient, consistent effort.
-      </td>
-      <td valign="middle" align="center">
-        <img src="img/turu.gif" alt="Sleepy cat" width="250" />
-      </td>
-    </tr>
-  </table>
+<div>
+  <img src="img/turu.gif" align="right" alt="Sleepy cat" width="250" />
+
+  <p>
+    🌙 &nbsp;A quiet night-learner who follows Computer Science with a calm, steady curiosity.
+    <br/><br/>
+    ✨ &nbsp;Drawn to the way ideas in CS unfold—softly at first, then shaping into something real.
+    <br/><br/>
+    🌧️ &nbsp;I enjoy simple, thoughtful progress, especially in Software Engineering and Data Science.
+    <br/><br/>
+    🌿 &nbsp;Growing at my own pace, learning the theory while building small things that feel meaningful.
+    <br/><br/>
+    ☕ &nbsp;Looking forward to the kind of progress that only comes from patient, consistent effort.
+  </p>
 </div>
+
+<br clear="right" />
 
 <br />
 
