@@ -1,9 +1,9 @@
 <div align="center" style="margin-top:12px; margin-bottom:8px;">
-  <img src="img/banner5.gif" alt="Banner" style="width: 70%; object-fit: cover; border-radius: 10px; box-shadow: 0px 5px 15px rgba(0,0,0,0.5);" />
+  <img src="img/banner5.gif" alt="Banner" style="width: 100%; max-width: 800px; height: auto; object-fit: cover; border-radius: 10px; box-shadow: 0px 5px 15px rgba(0,0,0,0.5);" />
 </div>
 
 <div align="center" style="margin-bottom:6px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7aa2f7&center=true&vCenter=true&width=520&size=28&lines=Hi%2C+I'm+Rusmin;Building+step+by+step;Always+learning+and+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7aa2f7&center=true&vCenter=true&width=520&size=28&lines=Hi%2C+I'm+Rusmin;Building+step+by+step;Always+learning+and+shipping" alt="Typing SVG" style="max-width: 100%; height: auto;" />
 </div>
 
 <div align="center">
@@ -24,17 +24,17 @@
     <li>🌿 &nbsp;Growing at my own pace, learning the theory while building small things that feel meaningful.</li>
     <li>☕ &nbsp;Looking forward to the kind of progress that only comes from patient, consistent effort.</li>
   </ul>
-  <img src="img/turu.gif" alt="Sleepy cat" width="20% " />
+  <img src="img/turu.gif" alt="Sleepy cat" style="width: 25%; min-width: 180px; max-width: 250px; height: auto;" />
 </div>
 
 <br />
 
 <h2 align="center">🛠️ &nbsp;Tech</h2>
-<div style="display:flex; align-items:center; justify-content:center; gap:24px; flex-wrap:wrap;">
-  <img src="img/astro.gif" alt="Cat coder" style="width: clamp(240px, 28vw, 320px); height: auto; object-fit: cover; border-radius: 12px; border: none;" />
+<div style="display:flex; align-items:stretch; justify-content:center; gap:24px; flex-wrap: wrap;">
+  <img src="img/astro.gif" alt="Cat coder" style="width: clamp(200px, 30vw, 300px); height: auto; object-fit: cover; border-radius: 12px; border: none;" />
   
   <div style="max-width: 900px; display: flex; align-items: center;">
-    <div style="display:flex; flex-wrap:wrap; gap:10px; justify-content:center;">
+    <div style="display:flex; flex-wrap:wrap; gap:8px; justify-content:center;">
       <img src="https://img.shields.io/badge/c-00599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
       <img src="https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
       <img src="https://img.shields.io/badge/c%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
@@ -68,13 +68,17 @@
 <br />
 
 <h2 align="center">📊 Sᴛᴀᴛs</h2>
-<div style="display:flex; justify-content:center; align-items:flex-start; gap:14px; flex-wrap:wrap;">
-  <div style="display:flex; flex-direction:column; gap:12px; flex:1 1 clamp(260px,30vw,340px); max-width:360px;">
-    <img style="width:100%; border-radius:10px;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rusmn&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages by Commit" />
-    <img style="width:100%; border-radius:10px;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rusmn&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages by Repo" />
+<div style="display:flex; justify-content:center; align-items:flex-start; gap:16px; flex-wrap:wrap;">
+  
+  <div style="display:flex; flex-direction:column; gap:12px; flex:1 1 300px; max-width: 380px;">
+    <img style="width:100%; height:auto; border-radius:10px;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rusmn&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages by Commit" />
+    <img style="width:100%; height:auto; border-radius:10px;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rusmn&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages by Repo" />
   </div>
 
-  <img style="flex:1 1 clamp(320px,36vw,440px); width: clamp(320px,36vw,440px); border-radius:14px;" src="https://github-contribution-stats.vercel.app/api/?username=Rusmn&bg_color=00000000&title_color=7aa2f7&text_color=a9b1d6&icon_color=bb9af7&border_color=1a1b26" alt="Contribution Stats" />
+  <div style="flex:1 1 300px; max-width: 380px;">
+      <img style="width:100%; height:auto; border-radius:12px; object-fit: contain;" src="https://github-contribution-stats.vercel.app/api/?username=Rusmn&bg_color=00000000&title_color=7aa2f7&text_color=a9b1d6&icon_color=bb9af7&border_color=1a1b26" alt="Contribution Stats" />
+  </div>
+
 </div>
 
 <br />
@@ -85,7 +89,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Rusmn&row=1&column=6&theme=tokyonight&no-bg=true&no-frame=true">
       <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Rusmn&row=1&column=6&theme=tokyonight&no-bg=true&no-frame=true">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Rusmn&row=1&column=6&theme=tokyonight&no-bg=true&no-frame=true">
+      <img style="max-width: 100%; height: auto;" alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Rusmn&row=1&column=6&theme=tokyonight&no-bg=true&no-frame=true">
     </picture>
   </a>
 </p>
@@ -94,11 +98,11 @@
 
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rusmn&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=9ece6a&area=true&hide_border=true" />
+  <img style="width: 100%; max-width: 850px; height: auto;" src="https://github-readme-activity-graph.vercel.app/graph?username=Rusmn&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=9ece6a&area=true&hide_border=true" />
 </div>
 
 <br />
 
 <div align="center">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg" />
+  <img style="width: 100%; max-width: 850px; height: auto;" alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg" />
 </div>
