@@ -22,20 +22,16 @@
 
   <p>
     🌙 &nbsp;A quiet night-learner who follows Computer Science with a calm, steady curiosity.
-    <br/><br/>
+    <br/>
     ✨ &nbsp;Drawn to the way ideas in CS unfold—softly at first, then shaping into something real.
-    <br/><br/>
+    <br/>
     🌧️ &nbsp;I enjoy simple, thoughtful progress, especially in Software Engineering and Data Science.
-    <br/><br/>
+    <br/>
     🌿 &nbsp;Growing at my own pace, learning the theory while building small things that feel meaningful.
-    <br/><br/>
+    <br/>
     ☕ &nbsp;Looking forward to the kind of progress that only comes from patient, consistent effort.
   </p>
 </div>
-
-<br clear="right" />
-
-<br />
 
 <h2 align="center">🛠️ &nbsp;Tech</h2>
 
@@ -79,8 +75,6 @@
 
 <br clear="left" />
 
-<br />
-
 <h2 align="center">📊 Sᴛᴀᴛs</h2>
 
 <p align="center">
@@ -88,8 +82,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rusmn&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" width="30%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rusmn&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages by Repo" width="30%" />
 </p>
-
-<br />
 
 <h2 align="center">🏆 Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
@@ -102,14 +94,12 @@
   </a>
 </p>
 
-<br />
-
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rusmn&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=9ece6a&area=true&hide_border=true" width="850" />
 </div>
 
-<br />
+<br>
 
 <div align="center">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg" width="850" />
