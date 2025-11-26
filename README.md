@@ -79,9 +79,9 @@
 <h2 align="center">📊 Sᴛᴀᴛs</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rusmn&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages by Commit" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rusmn&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rusmn&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rusmn&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages by Commit" width="30%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rusmn&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" width="30%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rusmn&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages by Repo" width="30%" />
 </p>
 
 <br />
