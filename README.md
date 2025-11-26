@@ -18,9 +18,9 @@
 <h3 align="center">👨🏻‍💻 &nbsp;About Me</h3>
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="20">
+  <table>
     <tr>
-      <td valign="middle" align="left">
+      <td valign="middle" align="left" style="border:none;">
         🌙 &nbsp;A quiet night-learner who follows Computer Science with a calm, steady curiosity.
         <br/><br/>
         ✨ &nbsp;Drawn to the way ideas in CS unfold—softly at first, then shaping into something real.
@@ -31,7 +31,7 @@
         <br/><br/>
         ☕ &nbsp;Looking forward to the kind of progress that only comes from patient, consistent effort.
       </td>
-      <td valign="middle" align="center">
+      <td valign="middle" align="center" style="border:none;">
         <img src="img/turu.gif" alt="Sleepy cat" width="250" />
       </td>
     </tr>
@@ -43,12 +43,12 @@
 <h2 align="center">🛠️ &nbsp;Tech</h2>
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="20">
+  <table>
     <tr>
-      <td valign="middle" align="center">
+      <td valign="middle" align="center" style="border:none;">
         <img src="img/astro.gif" alt="Cat coder" width="300" />
       </td>
-      <td valign="middle" align="center">
+      <td valign="middle" align="center" style="border:none;">
         <img src="https://img.shields.io/badge/c-00599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
         <img src="https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
         <img src="https://img.shields.io/badge/c%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
@@ -90,9 +90,9 @@
 <h2 align="center">📊 Sᴛᴀᴛs</h2>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rusmn&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages by Commit" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rusmn&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rusmn&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rusmn&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages by Commit" width="30%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rusmn&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" width="30%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rusmn&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages by Repo" width="30%" />
 </p>
 
 <br />
