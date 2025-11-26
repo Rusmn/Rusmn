@@ -30,11 +30,11 @@
 <br />
 
 <h2 align="center">🛠️ &nbsp;Tech</h2>
-<div style="display:flex; align-items:stretch; justify-content:center; gap:24px;">
-  <img src="img/astro.gif" alt="Cat coder" style="width: clamp(240px, 30vw, 320px); height: auto; object-fit: cover; border-radius: 12px; border: none;" />
+<div style="display:flex; align-items:center; justify-content:center; gap:24px; flex-wrap:wrap;">
+  <img src="img/astro.gif" alt="Cat coder" style="width: clamp(240px, 28vw, 320px); height: auto; object-fit: cover; border-radius: 12px; border: none;" />
   
   <div style="max-width: 900px; display: flex; align-items: center;">
-    <div style="display:flex; flex-wrap:wrap; gap:8px; justify-content:center;">
+    <div style="display:flex; flex-wrap:wrap; gap:10px; justify-content:center;">
       <img src="https://img.shields.io/badge/c-00599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
       <img src="https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
       <img src="https://img.shields.io/badge/c%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
