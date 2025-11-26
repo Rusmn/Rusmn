@@ -38,7 +38,7 @@
 <h2 align="center">🛠️ &nbsp;Tech</h2>
 
 <div>
-  <img src="img/astro.gif" align="left" alt="Cat coder" width="400" />
+  <img src="img/astro.gif" align="left" alt="Cat coder" width="300" />
 
   <p align="center">
     <img src="https://img.shields.io/badge/c-00599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -87,11 +87,7 @@
 <h2 align="center">🏆 Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
   <a href="https://github.com/Rusmn">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Rusmn&theme=tokyonight&no-frame=true&no-bg=true&hide=stars,issues,reviews">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Rusmn&theme=tokyonight&no-frame=true&no-bg=true&hide=stars,issues,reviews">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Rusmn&theme=tokyonight&no-frame=true&no-bg=true&hide=stars,issues,reviews">
-    </picture>
+    <img src="https://github-profile-trophy.vercel.app/?username=Rusmn&theme=tokyonight&margin-w=15&margin-h=15" alt="Trophies" />
   </a>
 </p>
 
