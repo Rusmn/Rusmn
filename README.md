@@ -35,14 +35,14 @@
 
 <br clear="right" />
 
-<br />
-
 <h2 align="center">🛠️ &nbsp;Tech</h2>
 
 <div>
-  <img src="img/astro.gif" align="left" alt="Cat coder" width="300" />
+  <img src="img/astro.gif" align="left" hspace="40" alt="Cat coder" width="300" />
 
   <p>
+    <br /><br />
+    
     <img src="https://img.shields.io/badge/c-00599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
     <img src="https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
     <img src="https://img.shields.io/badge/c%23-239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
@@ -79,8 +79,6 @@
 
 <br clear="left" />
 
-<br />
-
 <h2 align="center">📊 Sᴛᴀᴛs</h2>
 
 <p align="center">
@@ -88,8 +86,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rusmn&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" width="30%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rusmn&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages by Repo" width="30%" />
 </p>
-
-<br />
 
 <h2 align="center">🏆 Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
@@ -101,8 +97,6 @@
     </picture>
   </a>
 </p>
-
-<br />
 
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
