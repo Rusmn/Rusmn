@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="img/banner5.gif" alt="Banner" width="800" />
+  <img src="img/banner5.gif" alt="Banner" width="300"  />
 </div>
 
 <div align="center">
@@ -99,6 +99,3 @@
 
 <br />
 
-<div align="center">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg" width="850" />
-</div>
