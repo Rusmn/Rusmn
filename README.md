@@ -83,15 +83,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rusmn&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages by Repo" width="30%" />
 </p>
 
-
-<h2 align="center">🏆 Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/Rusmn">
-    <img src="https://github-profile-trophy.vercel.app/?username=Rusmn&theme=tokyonight&margin-w=15&margin-h=15" alt="Trophies" />
-  </a>
-</p>
-
-
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rusmn&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=9ece6a&area=true&hide_border=true" width="850" />
